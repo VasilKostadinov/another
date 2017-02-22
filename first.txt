@@ -1,1 +1,2 @@
 Added content to first.txt
+Second line content
